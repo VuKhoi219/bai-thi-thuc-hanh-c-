@@ -1,0 +1,14 @@
+D:\ConsoleApp1\BaiTapThucHanh\bin\Debug\net8.0\BaiTapThucHanh.exe
+D:\ConsoleApp1\BaiTapThucHanh\bin\Debug\net8.0\BaiTapThucHanh.deps.json
+D:\ConsoleApp1\BaiTapThucHanh\bin\Debug\net8.0\BaiTapThucHanh.runtimeconfig.json
+D:\ConsoleApp1\BaiTapThucHanh\bin\Debug\net8.0\BaiTapThucHanh.dll
+D:\ConsoleApp1\BaiTapThucHanh\bin\Debug\net8.0\BaiTapThucHanh.pdb
+D:\ConsoleApp1\BaiTapThucHanh\obj\Debug\net8.0\BaiTapThucHanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp1\BaiTapThucHanh\obj\Debug\net8.0\BaiTapThucHanh.AssemblyInfoInputs.cache
+D:\ConsoleApp1\BaiTapThucHanh\obj\Debug\net8.0\BaiTapThucHanh.AssemblyInfo.cs
+D:\ConsoleApp1\BaiTapThucHanh\obj\Debug\net8.0\BaiTapThucHanh.csproj.CoreCompileInputs.cache
+D:\ConsoleApp1\BaiTapThucHanh\obj\Debug\net8.0\BaiTapThucHanh.dll
+D:\ConsoleApp1\BaiTapThucHanh\obj\Debug\net8.0\refint\BaiTapThucHanh.dll
+D:\ConsoleApp1\BaiTapThucHanh\obj\Debug\net8.0\BaiTapThucHanh.pdb
+D:\ConsoleApp1\BaiTapThucHanh\obj\Debug\net8.0\BaiTapThucHanh.genruntimeconfig.cache
+D:\ConsoleApp1\BaiTapThucHanh\obj\Debug\net8.0\ref\BaiTapThucHanh.dll
